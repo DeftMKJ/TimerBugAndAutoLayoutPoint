@@ -1,0 +1,32 @@
+PODS:
+  - JTSImageViewController (1.5.1)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SKTagView (0.9.2)
+  - UITableView+FDTemplateLayoutCell (1.4)
+
+DEPENDENCIES:
+  - JTSImageViewController
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - SDWebImage
+  - SKTagView
+  - UITableView+FDTemplateLayoutCell
+
+SPEC CHECKSUMS:
+  JTSImageViewController: 1f8ce1cc93dab0d0af8e53badeea7528560cfec9
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SKTagView: 59cdadcd16e4a09300746ad1811a72371e1327f7
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+
+PODFILE CHECKSUM: 64fd54607a90d325047cc75168f00c824a747861
+
+COCOAPODS: 1.1.1

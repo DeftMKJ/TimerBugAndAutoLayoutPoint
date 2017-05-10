@@ -1,0 +1,13 @@
+
+platform:ios,'8.0'
+target 'SystemTime' do
+
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'SKTagView'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'JTSImageViewController'
+pod 'Masonry'
+
+end
